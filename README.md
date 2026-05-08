@@ -25,11 +25,11 @@ One coding technique that could help implement pixel sorting is the interval-bas
 
 **Example code:** [https://github.com/satyarth/pixelsort/](https://github.com/satyarth/pixelsort/)
 
-#### Code Implementation Image Example #1
-![An example of code implementation image](readmeImages/pixel_sorting_example.png)
+#### Code Implementation Example #1
+![An example of code implementation image](readmeImages/example1.png)
 
-#### Code Implementation Image Example #2
-![Another example of code implementation image](readmeImages/pixel_sorting_example_2.png)
+#### Code Implementation Example #2
+![Another example of code implementation image](readmeImages/example2.png)
 
 - The top left is the original image.
 - The top right is the image with pixels outside the lightness threshold replaced with black, and the rest filled in with white.
