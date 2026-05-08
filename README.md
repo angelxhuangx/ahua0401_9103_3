@@ -25,10 +25,10 @@ One coding technique that could help implement pixel sorting is the interval-bas
 
 **Example code:** [https://github.com/satyarth/pixelsort/](https://github.com/satyarth/pixelsort/)
 
-#### An example of code implementation image
+#### Code Implementation Image Example #1
 ![An example of code implementation image](readmeImages/pixel_sorting_example.png)
 
-#### Another example of code implementation image
+#### Code Implementation Image Example #2
 ![Another example of code implementation image](readmeImages/pixel_sorting_example_2.png)
 
 - The top left is the original image.
