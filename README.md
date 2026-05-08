@@ -1,6 +1,6 @@
-# ahua0401_9103_3
+# Angel Huang
 
-# MAY 1ST, 2026
+# WEEK 8 TUTORIAL
 This is my first local change to the repo
 
 # WEEK 8 QUIZ
@@ -10,27 +10,32 @@ This is my first local change to the repo
 An imaging technique that really stood out to me during my research is pixel sorting. Pixel sorting is an "algorithmic glitch art technique" that organizes pixels within an image based on color values such as brightness, hue, or saturation. This results in streaking effects where areas of similar value blur into flowing lines while other areas remain sharp. A key artwork associated with pixel sorting is Kim Asendorf's Mountain Tour (2010), which was a series of mountain images transformed using a custom pixel-sorting algorithm. This is a beneficial technique to incorporate, as it makes the artwork feel more alive and expressive.
 
 ### Ipz Abeinnr
-![Kim Asendorf - Digital image, 2010, Piz Bernina, Switzerland] (readmeimages/Ipz_Abeinnr.jpg)
+#### Kim Asendorf - Digital image, 2010, Piz Bernina, Switzerland
+![Kim Asendorf - Digital image, 2010, Piz Bernina, Switzerland](readmeImages/asendorf_1.png)
 
 ### Mnot Abcin A
-![Kim Asendorf - Digital image, 2010, Mont Blanc, France] (readmeimages/Ipz_Abeinnr.jpg)
+#### Kim Asendorf - Digital image, 2010, Mont Blanc, France
+![Kim Asendorf - Digital image, 2010, Mont Blanc, France](readmeImages/asendorf_2.png)
 
 ---
 
-# Part 2: Coding Technique Exploration
+## Part 2: Coding Technique Exploration
 
 One coding technique that could help implement pixel sorting is the interval-based array sorting technique, made by a user called Satyarth. The program reads pixel data, groups similar pixels into intervals based on color or brightness thresholds, then sorts each interval before writing it back to the image. This will help create the melting glitch effect because some parts of the images remain visible while selected regions are algorithmically rearranged. Using tools such as p5.js or Python will make it easier to access pixel values, apply sorting rules, and experiment with different types of pixel-sorting effects.
 
 **Example code:** [https://github.com/satyarth/pixelsort/](https://github.com/satyarth/pixelsort/)
 
-![An example of code implementation image](readmeimages/pixel_sorting_example)
+#### An example of code implementation image
+![An example of code implementation image](readmeImages/pixel_sorting_example.png)
 
-![Another example of code implementation image](readmeimages/pixel_sorting_example_2)
+#### Another example of code implementation image
+![Another example of code implementation image](readmeImages/pixel_sorting_example_2.png)
 
 - The top left is the original image.
 - The top right is the image with pixels outside the lightness threshold replaced with black, and the rest filled in with white.
 - The bottom left is the image with the intervals filled in with random colors – each color represents a different interval.
 - On the bottom left is the image with sorted intervals.
+##### (Pixel Sorting - Satyarth.me, 2025)
 
 ---
 ## References
